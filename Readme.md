@@ -12,7 +12,7 @@ ___
 * PyQt6 version: 6.2.0
 * PySide6 version: 6.2.2.1
 * PyAutoGUI version: 0.9.53
-* popple c/c++ version: 21.11.0
+* poppler c/c++ version: 21.11.0
 ___
 ### Screenshots
 ![Main](ScreenShots/Main.png)
